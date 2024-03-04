@@ -17,4 +17,4 @@ while (target):
 
 print("computer:", target)
 
-print("GAME OVER!!!")
+print("GAME OVER!!!!")
